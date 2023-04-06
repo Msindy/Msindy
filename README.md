@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Msindy
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning pyhton and javascript
+- 👀 I’m interested in software development, drones  and AI
+- 🌱  Data Analyst:Excel, Power BI, Tableau, PostgreSQL, MS SQL, R
+- 
 
 
 <!---
