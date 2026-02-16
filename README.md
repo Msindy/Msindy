@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Msindy
-- 👀 I’m interested in software development, drones  and AI
-- 🌱  Data Analyst:Excel, Power BI, Tableau, PostgreSQL, MS SQL, R
-- 
+# Hi there 👋
 
+I'm **Msindy**.
 
-<!---
-Msindy/Msindy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Learning & building in public
+- 💡 Interested in AI and open source
+
+---
+*Edit this README, then click **Publish to GitHub**. Or use **Generate with AI** to create one automatically (requires credits).*
